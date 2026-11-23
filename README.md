@@ -20,16 +20,23 @@ Every source here was opened and checked live before being added. Dead or stale 
 - **[GitHub Student Developer Pack](https://education.github.com/pack)** — The single biggest bundle: GitHub Pro, Copilot Student, Codespaces, $100 Azure credit, $200 DigitalOcean credit, free JetBrains, 1Password for 2 years, free domains and ~80 partner offers for verified students (13+).
 - **[SP Cloud Academy — 2026 Free Cloud Credits List](https://spca.education/2026-free-cloud-credits-list-aws-azure-gcp-more/)** — Provider-by-provider rundown: AWS, Azure, GCP ($300 trial), Oracle Always Free, IBM, plus startup programs (AWS Activate, Microsoft Founders Hub, Google for Startups).
 - **[GrabAIcredits](https://grabaicredits.com)** — Aggregator of AI-credit deals and free routes to AI tools (student packs, free API tiers, startup programs), each deal dated and verified.
+- **[CloudCredits.io](https://cloudcredits.io)** — Open-source vault of 200+ startup tools, software deals and credits (AWS, Google Cloud, Azure and more), community-verified, no ads or affiliate links.
 
 ## Free GPU / CPU compute
 
 - **[Kaggle](https://www.kaggle.com)** — Free notebooks with 2×T4 or P100 GPU (~30 GPU-hours/week), TPU access, and prize competitions.
 - **[Google Colab](https://colab.research.google.com)** — Free browser notebooks with GPU/TPU access (sessions up to 12h).
 - **[Runpeek — Free GPU for Deep Learning guide](https://runpeek.app/guides/free-gpu-for-deep-learning)** — Compares 8 free GPU options with real limits: Kaggle, Colab, Lightning AI, SageMaker Studio Lab, Modal, Paperspace, Hugging Face ZeroGPU.
+- **[Modal](https://modal.com)** — Serverless GPU/CPU platform for AI workloads with a free starter compute credit (~$30/month reported), billed by the second after that.
+- **[Lightning AI](https://lightning.ai)** — Cloud AI development platform (Lightning Studios) with free credits to start training and deploying models.
+- **[Hugging Face Spaces](https://huggingface.co/spaces)** — Host and run ML demos/apps; ZeroGPU gives free GPU time to Spaces.
 
 ## Free APIs & AI credits
 
 - **[Public APIs (publicapis.dev)](https://publicapis.dev)** — Searchable directory of 1,400+ public APIs in 52 categories, with auth/CORS info per listing.
+- **[OpenRouter](https://openrouter.ai)** — One API key for 600+ models from 80+ providers, including free models; pay-as-you-go after that.
+- **[Google AI Studio](https://aistudio.google.com)** — Free access to Gemini models with a free API tier for developers.
+- **[GitHub Models](https://github.com/marketplace/models)** — Free playground and API access to leading AI models for developers, built into GitHub.
 
 ## Swag
 
@@ -44,11 +51,23 @@ Every source here was opened and checked live before being added. Dead or stale 
 - **[Lablab.ai](https://lablab.ai)** — AI-only hackathons with cash prizes and free sponsor credits/tools for participants.
 - **[Hack Club Hackathons](https://hackathons.hackclub.com)** — Directory of high-school hackathons worldwide.
 - **[CTFtime](https://ctftime.org)** — Calendar and rankings hub for Capture-The-Flag security competitions worldwide.
+- **[DoraHacks](https://dorahacks.io)** — Global hackathon platform, strong in AI and Web3, with cash prizes, grants and bounties.
+- **[HackerEarth Challenges](https://www.hackerearth.com/challenges/hackathon)** — Hackathons and hiring challenges run by companies.
+
+## Paid open-source programs
+
+Not freebies — these pay stipends for contributing to open source, with an application process.
+
+- **[Google Summer of Code](https://summerofcode.withgoogle.com)** — Google's annual program paying contributors to work on open-source projects over the summer.
+- **[Outreachy](https://www.outreachy.org)** — Paid remote internships in open source and open science.
+- **[LFX Mentorship](https://mentorship.lfx.linuxfoundation.org)** — Linux Foundation mentorships, many with stipends, across CNCF and other projects.
+- **[MLH Fellowship](https://fellowship.mlh.io)** — Remote fellowship working on real open-source projects, with a stipend.
 
 ## GitHub list repos — free tiers & credits
 
 - **[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)** — The canonical list (~143k stars): SaaS/PaaS/IaaS free tiers for developers, 1,600+ contributors, very actively maintained.
 - **[Pham-02/free-ai-apis](https://github.com/Pham-02/free-ai-apis)** — 100+ free AI APIs in 15 categories (LLM, image, speech, embeddings…) with free-tier details, no credit card required. New project (Nov 2026).
+- **[nherx/free-llm-api-resources](https://github.com/nherx/free-llm-api-resources)** — List of free LLM API resources and free tiers for developers.
 
 ## GitHub list repos — free APIs
 
