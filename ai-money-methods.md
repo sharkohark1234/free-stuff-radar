@@ -21,6 +21,11 @@ Research summary, 2026-11-23. The headline finding: **almost none of these metho
 9. **AI print-on-demand** — the design is the easy 10%; the real work is niche research, listing SEO, ads and returns. Only ~3–6% of POD stores survive past 3 years.
 10. **AI micro-SaaS** — a real software business (support, churn, marketing). Most products earn $0 and are abandoned; survivors often sit at $100–$1,000/month MRR for a long time.
 
+## Two more from a second research round (Gemini, 2026-11-23)
+
+- **Open-source issue bounties** — Platforms like [Algora](https://algora.io) list GitHub issues with cash bounties (USD/crypto) paid when your pull request is merged. Real per-issue work, not passive — but payment is direct and verifiable before you start.
+- **Automated localization & dubbing for existing creators** — Offer YouTubers AI dubbing of their back catalogue into new languages (e.g. with ElevenLabs) for a 30–50% split of the new channels' AdSense/sponsorship income. Needs the creator's permission and revenue-share agreement; the catalogue owner does no extra work, you run the pipeline.
+
 ## Scam patterns to avoid
 
 - **The viral-post template:** "I was broke → found an AI tool → 1 hour setup → $13,000/month" posts follow one script — impossible unproven return, trivial effort, fake urgency, and a "comment INFO" close that feeds a course/affiliate funnel. The poster earns from the funnel, not the method.
