@@ -8,6 +8,20 @@ Every source here was opened and checked live before being added. Dead or stale 
 
 ---
 
+## Latest verified finds — 24 Nov 2026
+
+Time-sensitive, all checked live on 24 Nov 2026. Older entries move out as they expire.
+
+- **[Google Cloud Arcade — Build-a-thon](https://go.cloudskillsboost.google/arcade)** — 7 free points: build + deploy an AI agent for 6 points, share on social media for 1 bonus point. November games end **24 Nov 2026** — act today.
+- **[Build With Gemini 2026](https://hack2skill.com/event/buildwithgemini/)** — Virtual hackathon by Google + YourStory, ₹8,00,000 prize pool (winner ₹3L, runners-up ₹2L and ₹1.25L, 5 consolation ₹35k each; shortlisted teams also get $100 Google Cloud credits). Register by **3 Dec 2026**. Working professionals in India only; students not eligible for this edition.
+- **[AWS Student AI Bootcamp 2026](https://unstop.com/competitions/crp-student-ai-bootcamp-sponsored-by-aws-amazon-web-services-aws-1772721)** — Free live webinars (GenAI, Kiro, RAG/Bedrock, AI agents) on 27 Nov, 11 Dec, 18 Dec, 4–5 PM IST, for students 18+ in India. Top 3 win Apple AirPods + Premium AWS Swag Kit; ranks 4–100 get swag kits; each quiz has 25 Amazon gift-card winners. Register free on Unstop.
+- **[Unstop Campus Champions 2026](https://unstop.com/internships/unstop-campus-champions-applications-reopened-unstop-1783927)** — Be your college's Unstop face: free swags/merch, Unstop Pro access, Certificate of Excellence, top champions win a tablet/speaker/smartwatch. Apply by **15 Dec 2026**. Note: the internship is unpaid and performance-based, despite some videos calling it "paid".
+- **[Decentralize AI Hackathon](https://decentralizeai.tech)** — Global hackathon by HackerNoon + Nosana + Arweave + MEXC, $51,750+ total value. Every eligible participant gets **$70 Nosana GPU compute credits**; winners get extra $450. Open now, runs until Feb 2027. Requires a real working project + a published HackerNoon post.
+- **[Tata Forage micro-internships](https://www.theforage.com/simulations)** — Free self-paced virtual job simulations (GenAI Data Analytics, Data Visualisation, Cybersecurity, ESG) with a free certificate on completion. No experience needed, no deadline.
+- **[Qiskit Fall Fest 2026](https://www.quantumgrad.com/qiskit-fall-fest-2026/hackathon)** — Free online quantum hackathon, 27–29 Nov 2026, beginners welcome. Signup gives 100 free IQM quantum-hardware credits; winning teams get 500/150 credits.
+
+---
+
 ## Websites — free tiers & developer tools
 
 - **[Free for Developers (free-for.dev)](https://free-for.dev)** — SaaS/PaaS/IaaS services with real free tiers (not trials) across 60+ categories. Web version of the free-for-dev list below.
