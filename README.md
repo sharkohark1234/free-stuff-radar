@@ -4,15 +4,24 @@ A curated, **verified** list of free resources for developers and students — f
 
 Every source here was opened and checked live before being added. Dead or stale lists are removed. Updated regularly.
 
-**Last full verification: 2026-11-23**
+**Last full verification: 2026-11-26**
 
 ---
+
+## Latest verified finds — 26 Nov 2026
+
+Time-sensitive, all checked live on 26 Nov 2026. Older entries move out as they expire.
+
+- **[Google PromptWars Virtual 2026](https://promptwars.in)** — Free virtual prompt-engineering competition for India (18+). Earn Prompt Credits by completing tasks and redeem them for free swags. Register free on the site.
+- **[Z.ai AutoClaw — 50M free tokens](https://autoclaw.z.ai)** — 50 million free tokens for AutoClaw users. Claim inside the AutoClaw client by **29 Nov 2026 (UTC+8)** — in-client only, no web signup.
+- **[Cloud9 × JetBrains "Sky's the Limit" hackathon](https://cloud9.devpost.com)** — $25,000 prize pool; every participant gets 2 months of JetBrains free. Build with JetBrains tools, submit on Devpost by **12 Jan 2027**.
+- **[AI for Church hackathon](https://devpost.com)** — $2,500 prize pool + 100 Lovable credits for participants. Niche theme (church/community tools). Submissions due **27 Nov 2026** — act fast.
 
 ## Latest verified finds — 24 Nov 2026
 
 Time-sensitive, all checked live on 24 Nov 2026. Older entries move out as they expire.
 
-- **[Google Cloud Arcade — Build-a-thon](https://go.cloudskillsboost.google/arcade)** — 7 free points: build + deploy an AI agent for 6 points, share on social media for 1 bonus point. November games end **24 Nov 2026** — act today.
+- **[Google Cloud Arcade — Build-a-thon](https://go.cloudskillsboost.google/arcade)** — ~~7 free points: build + deploy an AI agent for 6 points, share on social media for 1 bonus point. November games end **24 Nov 2026** — act today.~~ **Ended 24 Nov 2026** — the November games are over; watch for the December round.
 - **[Build With Gemini 2026](https://hack2skill.com/event/buildwithgemini/)** — Virtual hackathon by Google + YourStory, ₹8,00,000 prize pool (winner ₹3L, runners-up ₹2L and ₹1.25L, 5 consolation ₹35k each; shortlisted teams also get $100 Google Cloud credits). Register by **3 Dec 2026**. Working professionals in India only; students not eligible for this edition.
 - **[AWS Student AI Bootcamp 2026](https://unstop.com/competitions/crp-student-ai-bootcamp-sponsored-by-aws-amazon-web-services-aws-1772721)** — Free live webinars (GenAI, Kiro, RAG/Bedrock, AI agents) on 27 Nov, 11 Dec, 18 Dec, 4–5 PM IST, for students 18+ in India. Top 3 win Apple AirPods + Premium AWS Swag Kit; ranks 4–100 get swag kits; each quiz has 25 Amazon gift-card winners. Register free on Unstop.
 - **[Unstop Campus Champions 2026](https://unstop.com/internships/unstop-campus-champions-applications-reopened-unstop-1783927)** — Be your college's Unstop face: free swags/merch, Unstop Pro access, Certificate of Excellence, top champions win a tablet/speaker/smartwatch. Apply by **15 Dec 2026**. Note: the internship is unpaid and performance-based, despite some videos calling it "paid".
